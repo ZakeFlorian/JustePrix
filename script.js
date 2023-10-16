@@ -7,6 +7,7 @@ let Random;
 let nbreAttempts;
 let showAttempts = document.getElementById('attempts');
 let button = document.getElementById('button');
+
 let imageName = document.getElementById('name-image');
 let articleImage = document.getElementById('article');
 let message = document.getElementById('message');
